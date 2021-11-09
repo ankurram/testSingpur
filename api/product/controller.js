@@ -51,7 +51,9 @@ const Response = require('../../lib/commanService/response'),
                 "_id": { "hour":"$h","sales":"$amount"},
                
             }
+         
           }
+        
             ])
            
           }  
